@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+  <script src="main.js" defer></script>
+  
+  <title>Frontend Mentor | News homepage</title>
+</head>
+
+<body>
+
+  <header>
+    <img src="/assets/images/logo.svg" alt="W icon for website logo.">
+    
+    <button class="menu-btn" onclick="changeImage()">
+      <img class="hamburger-menu" src="/assets/images/icon-menu.svg" alt="Menu icon - status closed.">
+    </button>
+
+    <nav>
+      <ul>
+        <li><a class="nav-links" href="#">Home</a></li>
+        <li><a class="nav-links" href="#">New</a></li>
+        <li><a class="nav-links" href="#">Popular</a></li>
+        <li><a class="nav-links" href="#">Trending</a></li>
+        <li><a class="nav-links" href="#">Categories</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+
+  <section class="page-content-wrapper">
+
+    <main>
+      <picture class="main-pic">
+        <source media="(min-width: 1025px)" srcset="/assets/images/image-web-3-desktop.jpg">
+        <img class="banner-image" src="/assets/images/image-web-3-mobile.jpg" alt="Image of 3D Shapes">
+      </picture>
+      <h1 class="main-title">The Bright Future of Web 3.0?</h1>
+      <p class="main-p">
+        We dive into the next evolution of the web that claims to put the power of the platforms back into the hands of the people. 
+        But is it really fulfilling its promise?
+      </p>
+      <button class="action-btn main-btn"><a href="#">READ MORE</a></button>
+    </main>
+
+    <aside>
+      <h2>New</h2>
+      <section class="aside-items">
+        <h4><a href="#">Hydrogen VS Electric Cars</a></h4>
+        <p>Will hydrogen-fueled cars ever catch up to EVs?</p>
+      </section>
+      <section class="aside-items">
+        <h4><a href="#">The Downsides of AI Artistry</a></h4>
+        <p>What are the possible adverse effects of on-demand AI image generation?</p>
+      </section>
+      <section class="aside-items">
+        <h4><a href="#">Is VC Funding Drying Up</a></h4>
+        <p>Private funding by VC firms is down 50% YOY. We take a look at what that means.</p>
+      </section>
+    </aside>
+
+  </section>
+
+
+  <footer>
+    <section class="footer-sections">
+      <img class="footer-img" src="/assets/images/image-retro-pcs.jpg" alt="3D Iamge of a retro computer.">
+      <p class="footer-number">01</p>
+      <h3 class="footer-title"><a class="footer-title-a" href="#">Reviving Retro PCs</a></h3>
+      <p class="footer-content">What happens when old PCs are given modern upgrades?</p>
+    </section>
+    <section class="footer-sections">
+      <img class="footer-img" src="/assets/images/image-top-laptops.jpg" alt="">
+      <p class="footer-number">02</p>
+      <h3 class="footer-title"><a class="footer-title-a" href="#">Top 10 Laptops of 2022</a></h3>
+      <p class="footer-content">Our best picks for various needs and budgets.</p>
+    </section>
+    <section class="footer-sections">
+      <img class="footer-img" src="/assets/images/image-gaming-growth.jpg" alt="">
+      <p class="footer-number">03</p>
+      <h3 class="footer-title"><a class="footer-title-a" href="#">The Growth of Gaming</a></h3>
+      <p class="footer-content">How the pandemic has sparked fresh opportunities.</p>
+    </section>
+  </footer>
+  
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Daivd Mclean</a>.
+  </div>
+</body>
+</html>
