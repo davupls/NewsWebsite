@@ -25,7 +25,20 @@
       <img class="hamburger-menu" src="assets/images/icon-menu.svg" alt="Menu icon - status closed.">
     </button>
 
-    <nav>
+    <nav class="mobile-nav-hidden">
+      <ul>
+        <li><a class="nav-links" href="#">Home</a></li>
+        <li><a class="nav-links" href="#">New</a></li>
+        <li><a class="nav-links" href="#">Popular</a></li>
+        <li><a class="nav-links" href="#">Trending</a></li>
+        <li><a class="nav-links" href="#">Categories</a></li>
+      </ul>
+    </nav>
+
+    <nav class="mobile-nav">
+      <button class="mobile-nav-btn">
+        <img src="assets/images/icon-menu-close.svg" onclick="toggle()" alt="">
+      </button>
       <ul>
         <li><a class="nav-links" href="#">Home</a></li>
         <li><a class="nav-links" href="#">New</a></li>
