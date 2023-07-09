@@ -56,16 +56,16 @@ Users should be able to:
 ### Useful resources
 
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 2](https://www.example.com) - This amazing article helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/davupls)
-- Twitter - [@yourusername](https://www.twitter.com/davutech)
+- Website - [David McLean](https://github.com/davupls) 
+- Frontend Mentor - [@davupls](https://www.frontendmentor.io/profile/davupls)
+- Twitter - [@davutech](https://www.twitter.com/davutech)
 
 
 ## Acknowledgments
 
-Shoutout to Frontend Mentor for providing the design files and Mozilla developer doc and OpenAi chatGPT.
+Thanks to Frontend Mentor for providing the design files, Mozilla developer doc, and OpenAi chatGPT.
