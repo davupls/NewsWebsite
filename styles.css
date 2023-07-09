@@ -95,7 +95,7 @@ margin-top: 3rem;
 @media screen and (max-width: 1024px) {
 body {
     padding: 10% 5%;
-    overflow: clip;
+    overflow-x: clip;
 }
 
 
