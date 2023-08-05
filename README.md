@@ -27,13 +27,15 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+<img width="237" alt="Screenshot 2023-08-04 at 9 01 45 PM" src="https://github.com/davupls/NewsWebsite/assets/47851457/e2d6b1c4-a4eb-41dc-87c3-e8f431780e3a">
 
-![](./screenshot.jpg)
+![Screenshot 2023-08-04 at 20-59-24 Frontend Mentor News homepage](https://github.com/davupls/NewsWebsite/assets/47851457/9de47565-9d40-4ee9-98a0-5ff173b44c31)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ([https://your-solution-url.com](https://news-website-puce-one.vercel.app/))
+- Live Site URL: ([https://your-live-site-url.com](https://github.com/davupls/NewsWebsite))
 
 ## My process
 
