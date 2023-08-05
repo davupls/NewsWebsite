@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ([https://your-solution-url.com](https://news-website-puce-one.vercel.app/))
-- Live Site URL: ([https://your-live-site-url.com](https://github.com/davupls/NewsWebsite))
+- Solution URL: ([Webite Github Repo](https://news-website-puce-one.vercel.app/))
+- Live Site URL: ([Website Live Link](https://github.com/davupls/NewsWebsite))
 
 ## My process
 
